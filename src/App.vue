@@ -1,32 +1,40 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
-  </div>
+  <v-app>
+    <!-- <Header/> -->
+    <v-content class="black white--text pt-6">
+      <transition name="animate" mode="out-in">
+        <router-view></router-view>
+      </transition>
+    </v-content>
+  </v-app>
 </template>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+<style scoped>
+.animate-enter-active {
+  animation: animate-in 200ms ease-out forwards;
 }
-
-#nav {
-  padding: 30px;
+.animate-leave-active {
+  animation: animate-out 200ms ease-out forwards;
 }
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
+@keyframes animate-in {
+  from {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
 }
-
-#nav a.router-link-exact-active {
-  color: #42b983;
+@keyframes animate-out {
+  from {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+}
+@keyframes identifier {
 }
 </style>
