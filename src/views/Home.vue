@@ -9,7 +9,7 @@
           KEVA DAM<span class="grey--text">AR GALIH</span>
         </div>
         <div class="font-weight-bold pb-3">
-          WEB DEV<span class="grey--text">ELOPER</span>
+          <span class="grey--text">WEB DEV</span>ELOPER
         </div>
         <div>
           <a href="https://github.com/kevadamar" target="_blank">
@@ -37,19 +37,24 @@
     <v-container>
       <v-card dark class="text-center pt-10 px-6">
         <v-layout row wrap class="pb-3">
-          <v-flex xs12 sm4>
+          <v-flex xs12 sm3>
             <v-btn depressed block @click="loadComponent = 'Introduction'"
-              >About me</v-btn
+              >Tentang</v-btn
             >
           </v-flex>
-          <v-flex xs12 sm4>
+          <v-flex xs12 sm3>
             <v-btn depressed block @click="loadComponent = 'Skills'"
-              >Skills</v-btn
+              >Kemampuan</v-btn
             >
           </v-flex>
-          <v-flex xs12 sm4>
+          <v-flex xs12 sm3>
             <v-btn depressed block @click="loadComponent = 'Education'"
-              >Education</v-btn
+              >Pendidikan</v-btn
+            >
+          </v-flex>
+          <v-flex xs12 sm3>
+            <v-btn depressed block @click="loadComponent = 'Experience'"
+              >Pengalaman</v-btn
             >
           </v-flex>
         </v-layout>
@@ -65,17 +70,18 @@
 import Introduction from "../components/Introduction";
 import Skills from "../components/Skills";
 import Education from "../components/Education";
+import Experience from "../components/Experience";
 export default {
   name: "Home",
   components: {
     Introduction,
     Skills,
-    Education
+    Education,
+    Experience
   },
   data() {
     return {
-      loadComponent: "Introduction",
-      display: true
+      loadComponent: "Introduction"
     };
   }
 };
