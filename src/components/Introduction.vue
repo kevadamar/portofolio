@@ -1,21 +1,21 @@
 <template>
   <div class="introduction mt-3">
-    <div class="py-3">
+    <span class="py-3">
       Perkenalkan nama saya <span class="title">Keva Damar Galih</span> dan saya
       seorang Web Developer.
-    </div>
+    </span>
 
-    <div class="py-3">
+    <p class="py-3">
       Saya telah bekerja di sektor teknologi informasi selama kurang lebih satu
       tahun. Dalam waktu ini, saya telah mengembangkan pengetahuan kerja tentang
       semua tren dan teknik terbaru untuk aplikasi terbaik. Saya telah bekerja
       di lingkungan komersial seperti bank dan pemerintahan. Saya juga menyukai
       tantangan dan hal baru, serta menerima project pembuatan aplikasi berbasis
       web sesuai dengan permintaan client.
-    </div>
+    </p>
 
     <div class="my-3 pb-4">
-      Terima Kasih.
+      <span>Terima Kasih.</span>
       <v-icon>mdi-emoticon-cool-outline</v-icon>
     </div>
   </div>

@@ -39,7 +39,10 @@ export default {
           year: "Oktober 2019 - Juni 2020",
           job: "Frontend Web Developer",
           company: "Diginova Kreasi Indonesia",
-          description: ["Membangun Aplikasi Web dengan VueJS."],
+          description: [
+            "Membuat Aplikasi Web dengan VueJS.",
+            "Menghubungkan Frontend dan Backend dengan API.",
+          ],
         },
         {
           year: "Agustus 2020 - Oktober 2020",
@@ -49,6 +52,7 @@ export default {
             "Mengimplementasikan desain UI/UX ke bentuk Aplikasi Web.",
             "Mengimplementasikan responsive Aplikasi Web Mode Mobile dengan Vuetify.",
             "Membuat Aplikasi Web PWA dengan VueJS untuk alat bantu sales berjualan produk BNI berbasis Mobile.",
+            "Menghubungkan Frontend dan Backend dengan API.",
           ],
         },
       ],
