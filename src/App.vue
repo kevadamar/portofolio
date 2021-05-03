@@ -1,11 +1,10 @@
 <template>
   <v-app>
-    <!-- <Header/> -->
-    <v-content class="black white--text pt-6">
+    <v-main class="black white--text pt-6">
       <transition name="animate" mode="out-in">
         <router-view></router-view>
       </transition>
-    </v-content>
+    </v-main>
   </v-app>
 </template>
 <style scoped>
