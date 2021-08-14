@@ -9,7 +9,7 @@
           KEVA DAM<span class="grey--text">AR GALIH</span>
         </div>
         <div class="font-weight-bold pb-3">
-          <span class="grey--text">WEB DEV</span>ELOPER
+          <span class="grey--text">FULLSTACK DEV</span>ELOPER
         </div>
         <div>
           <a href="https://github.com/kevadamar" target="_blank">
