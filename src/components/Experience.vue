@@ -36,22 +36,33 @@ export default {
     return {
       payloads: [
         {
-          year: "Oktober 2019 - Juni 2020",
-          job: "Frontend Web Developer",
-          company: "Diginova Kreasi Indonesia",
+          year: "September 2021 - Now",
+          job: "Frontend Web Freelance",
+          company: "PT. Ayo Kreasi Teknologi",
           description: [
-            "Membuat Aplikasi Web dengan VueJS.",
+            "Membuat Aplikasi Sistem Informasi Pelabuhan dengan NuxtJS untuk PT. Krakatau Bandar Samudera berbasis Web.",
+            "Mengimplementasikan desain UI/UX ke bentuk Aplikasi Web.",
             "Menghubungkan Frontend dan Backend dengan API."
           ]
         },
+
         {
           year: "Agustus 2020 - Oktober 2020",
           job: "Frontend Web Freelance",
           company: "Diginova Elektra Multimedia",
           description: [
+            "Membuat Aplikasi Web PWA dengan VueJS untuk alat bantu sales berjualan produk BNI berbasis Mobile.",
             "Mengimplementasikan desain UI/UX ke bentuk Aplikasi Web.",
             "Mengimplementasikan responsive Aplikasi Web Mode Mobile dengan Vuetify.",
-            "Membuat Aplikasi Web PWA dengan VueJS untuk alat bantu sales berjualan produk BNI berbasis Mobile.",
+            "Menghubungkan Frontend dan Backend dengan API."
+          ]
+        },
+        {
+          year: "Oktober 2019 - Juni 2020",
+          job: "Frontend Web Developer",
+          company: "Diginova Kreasi Indonesia",
+          description: [
+            "Membuat Aplikasi Web dengan VueJS.",
             "Menghubungkan Frontend dan Backend dengan API."
           ]
         }

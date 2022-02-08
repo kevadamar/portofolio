@@ -9,9 +9,9 @@
       Saya telah bekerja di sektor teknologi informasi selama kurang lebih satu
       tahun. Dalam waktu ini, saya telah mengembangkan pengetahuan kerja tentang
       semua tren dan teknik terbaru untuk aplikasi terbaik. Saya telah bekerja
-      di lingkungan komersial seperti bank dan pemerintahan. Saya juga menyukai
-      tantangan dan hal baru, serta menerima project pembuatan aplikasi berbasis
-      web sesuai dengan permintaan client.
+      di lingkungan komersial seperti Bank, Pemerintahan dan Pelabuhan. Saya
+      juga menyukai tantangan dan hal baru, serta menerima project pembuatan
+      aplikasi berbasis web dan mobile sesuai dengan permintaan client.
     </p>
 
     <div class="my-3 pb-4">

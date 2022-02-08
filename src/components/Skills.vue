@@ -74,6 +74,20 @@
               <h5>Vuetify</h5>
             </v-tooltip>
           </div>
+          <div>
+            <v-tooltip bottom>
+              <template v-slot:activator="{ on, attrs }">
+                <v-img
+                  v-bind="attrs"
+                  v-on="on"
+                  width="120"
+                  src="@/assets/reactjs.png"
+                  lazy-src="@/assets/reactjs.png"
+                ></v-img>
+              </template>
+              <h5>ReactJS</h5>
+            </v-tooltip>
+          </div>
         </div>
       </v-container>
     </div>
@@ -107,6 +121,20 @@
               ></v-img>
             </template>
             <h5>NodeJS</h5>
+          </v-tooltip>
+        </div>
+        <div>
+          <v-tooltip bottom>
+            <template v-slot:activator="{ on, attrs }">
+              <v-img
+                v-bind="attrs"
+                v-on="on"
+                width="90"
+                src="@/assets/nestjs.png"
+                lazy-src="@/assets/nestjs.png"
+              ></v-img>
+            </template>
+            <h5>NestJS</h5>
           </v-tooltip>
         </div>
       </div>

@@ -31,11 +31,18 @@ export default {
     return {
       payloads: [
         {
-          color: "pink",
-          year: "2006 - 2012",
-          text: "SDN JATI 4 TANGERANG",
+          color: "blue",
+          year: "2018 - now",
+          text: "Institut Teknologi & Bisnis Bina Sarana Global",
           description:
-            "Perjalanan pendidikan sekolah saya diawali di SDN JATI 4 TANGERANG selama 6 tahun."
+            "Pada pendidikan S1 saya mengambil program studi Teknik Informatika dengan konsentrasi Software Engineering di Institut Teknologi & Bisnis Bina Sarana Global."
+        },
+        {
+          color: "grey",
+          year: "2015 - 2018",
+          text: "SMK PANCAKARYA",
+          description:
+            "Pada pendidikan SMK saya mengambil program studi Multimedia di SMK PANCAKARYA."
         },
         {
           color: "cyan",
@@ -44,12 +51,13 @@ export default {
           description:
             "Kemudian melanjutkan pendidikan SMP saya di SMPN 08 TANGERANG selama 3 tahun."
         },
+
         {
-          color: "grey",
-          year: "2015 - 2018",
-          text: "SMK PANCAKARYA ~ MULTIMEDIA",
+          color: "pink",
+          year: "2006 - 2012",
+          text: "SDN JATI 4 TANGERANG",
           description:
-            "Pada pendidikan SMK saya mengambil program studi Multimedia di SMK PANCAKARYA."
+            "Perjalanan pendidikan sekolah saya diawali di SDN JATI 4 TANGERANG selama 6 tahun."
         }
       ]
     };
