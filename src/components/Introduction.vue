@@ -2,7 +2,7 @@
   <div class="introduction mt-3">
     <span class="py-3">
       Perkenalkan nama saya <span class="title">Keva Damar Galih</span> dan saya
-      seorang Web Developer.
+      seorang Fullstack Developer.
     </span>
 
     <p class="py-3">

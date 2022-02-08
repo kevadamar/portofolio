@@ -65,6 +65,15 @@ export default {
             "Membuat Aplikasi Web dengan VueJS.",
             "Menghubungkan Frontend dan Backend dengan API."
           ]
+        },
+        {
+          year: "Oktober 2019 - Juni 2020",
+          job: "Frontend Web Developer",
+          company: "Diginova Kreasi Indonesia",
+          description: [
+            "Membuat Aplikasi Web dengan VueJS.",
+            "Menghubungkan Frontend dan Backend dengan API."
+          ]
         }
       ]
     };
