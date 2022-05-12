@@ -6,7 +6,7 @@
     </span>
 
     <p class="py-3">
-      Saya telah bekerja di sektor teknologi informasi selama kurang lebih satu
+      Saya telah bekerja di sektor teknologi informasi selama kurang lebih dua
       tahun. Dalam waktu ini, saya telah mengembangkan pengetahuan kerja tentang
       semua tren dan teknik terbaru untuk aplikasi terbaik. Saya telah bekerja
       di lingkungan komersial seperti Bank, Pemerintahan dan Pelabuhan. Saya

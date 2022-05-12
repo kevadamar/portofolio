@@ -17,10 +17,7 @@
               >mdi-github</v-icon
             >
           </a>
-          <a
-            href="https://www.linkedin.com/in/keva-damar-galih-10708b190"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/kevadamargalih" target="_blank">
             <v-icon color="white" class="mx-2 github-linkedin"
               >mdi-linkedin</v-icon
             >
