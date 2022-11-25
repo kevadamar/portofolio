@@ -80,12 +80,43 @@
                 <v-img
                   v-bind="attrs"
                   v-on="on"
+                  width="150"
+                  height="90"
+                  class="pt-3"
+                  src="@/assets/tailwind.png"
+                  lazy-src="@/assets/tailwind.png"
+                ></v-img>
+              </template>
+              <h5>Tailwind CSS</h5>
+            </v-tooltip>
+          </div>
+          <div>
+            <v-tooltip bottom>
+              <template v-slot:activator="{ on, attrs }">
+                <v-img
+                  v-bind="attrs"
+                  v-on="on"
                   width="120"
                   src="@/assets/reactjs.png"
                   lazy-src="@/assets/reactjs.png"
                 ></v-img>
               </template>
               <h5>ReactJS</h5>
+            </v-tooltip>
+          </div>
+          <div>
+            <v-tooltip bottom>
+              <template v-slot:activator="{ on, attrs }">
+                <v-img
+                  v-bind="attrs"
+                  v-on="on"
+                  width="127"
+                  height="93"
+                  src="@/assets/nuxtjs.png"
+                  lazy-src="@/assets/nuxtjs.png"
+                ></v-img>
+              </template>
+              <h5>NuxtJS</h5>
             </v-tooltip>
           </div>
         </div>
@@ -155,6 +186,20 @@
               ></v-img>
             </template>
             <h5>MySQL</h5>
+          </v-tooltip>
+        </div>
+        <div>
+          <v-tooltip bottom>
+            <template v-slot:activator="{ on, attrs }">
+              <v-img
+                v-bind="attrs"
+                v-on="on"
+                width="110"
+                src="@/assets/sqlserver.webp"
+                lazy-src="@/assets/sqlserver.webp"
+              ></v-img>
+            </template>
+            <h5>SQL Server</h5>
           </v-tooltip>
         </div>
       </div>

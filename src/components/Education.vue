@@ -32,7 +32,7 @@ export default {
       payloads: [
         {
           color: "blue",
-          year: "2018 - now",
+          year: "2018 - 2022",
           text: "Institut Teknologi & Bisnis Bina Sarana Global",
           description:
             "Pada pendidikan S1 saya mengambil program studi Teknik Informatika dengan konsentrasi Software Engineering di Institut Teknologi & Bisnis Bina Sarana Global."

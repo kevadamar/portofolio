@@ -37,18 +37,30 @@ export default {
       payloads: [
         {
           year: "September 2021 - Now",
-          job: "Frontend Web Freelance",
+          job: "Frontend Developer",
           company: "PT. Ayo Kreasi Teknologi",
           description: [
-            "Membuat Aplikasi Sistem Informasi Pelabuhan dengan NuxtJS untuk PT. Krakatau Bandar Samudera berbasis Web.",
-            "Mengimplementasikan desain UI/UX ke bentuk Aplikasi Web.",
-            "Menghubungkan Frontend dan Backend dengan API."
+            "Implementasi BTOS Multi Purpose untuk PT Persero Batam. Mendukung BTOS Multi Purpose Port Apps untuk PT Persero Batam.",
+            "Buat beberapa Prosedur dan Fungsi Penyimpanan untuk laporan kustom menggunakan SQL Server.",
+            "Menangani menghasilkan laporan PDF File dari laravel.",
+            "Tangani integrasi Backend laravel ke Odoo.",
+            "Bangun aplikasi Port Kontainer menggunakan NuxtJS.",
+            "Membangun aplikasi KIPOS Break Bulk Port untuk PT Krakatau Bandar Samudera menggunakan NuxtJS.",
+            "Integrasi Frontend dan Backend KIPOS dengan API.",
+            "Bangun aplikasi Multi Purpose Port menggunakan teknologi yang sama dengan Break Bulk Port.",
+            "Buat komponen Filterbar yang dapat digunakan kembali, Cari Pilih, dan Skeleton Loader.",
+            "Buat Helper Formating Number dan periksa akses pengguna."
           ]
         },
-
+        {
+          year: "Agustus 2022 - September 2022",
+          job: "Freelance Frontend Developer",
+          company: "PT. Fazztech",
+          description: ["Berpartisipasi Redesign CMS Digiexpert Telkom."]
+        },
         {
           year: "Agustus 2020 - Oktober 2020",
-          job: "Frontend Web Freelance",
+          job: "Freelance Frontend Web Developer",
           company: "Diginova Elektra Multimedia",
           description: [
             "Membuat Aplikasi Web PWA dengan VueJS untuk alat bantu sales berjualan produk BNI berbasis Mobile.",
@@ -59,7 +71,7 @@ export default {
         },
         {
           year: "Oktober 2019 - Juni 2020",
-          job: "Frontend Web Developer",
+          job: "Freelance Frontend Web Developer",
           company: "Diginova Kreasi Indonesia",
           description: [
             "Membuat Aplikasi Web dengan VueJS.",

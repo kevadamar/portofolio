@@ -2,7 +2,7 @@
   <div class="introduction mt-3">
     <span class="py-3">
       Perkenalkan nama saya <span class="title">Keva Damar Galih</span> dan saya
-      seorang Fullstack Developer.
+      seorang Frontend Developer.
     </span>
 
     <p class="py-3">
@@ -11,7 +11,7 @@
       semua tren dan teknik terbaru untuk aplikasi terbaik. Saya telah bekerja
       di lingkungan komersial seperti Bank, Pemerintahan dan Pelabuhan. Saya
       juga menyukai tantangan dan hal baru, serta menerima project pembuatan
-      aplikasi berbasis web dan mobile sesuai dengan permintaan client.
+      aplikasi berbasis web sesuai dengan permintaan client.
     </p>
 
     <div class="my-3 pb-4">
