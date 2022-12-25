@@ -37,7 +37,7 @@ export default {
       payloads: [
         {
           year: "September 2021 - Now",
-          job: "Frontend Developer",
+          job: "Fullstack Developer",
           company: "PT. Ayo Kreasi Teknologi",
           description: [
             "Implementasi BTOS Multi Purpose untuk PT Persero Batam. Mendukung BTOS Multi Purpose Port Apps untuk PT Persero Batam.",
