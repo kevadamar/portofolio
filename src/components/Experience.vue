@@ -53,7 +53,8 @@ export default {
           job: "Fullstack Developer",
           company: "PT. Ayo Kreasi Teknologi",
           description: [
-            "Implementasi BTOS Multi Purpose untuk PT Persero Batam. Mendukung BTOS Multi Purpose Port Apps untuk PT Persero Batam.",
+            "Implementasi BTOS Multi Purpose untuk PT Persero Batam.",
+            "Mendukung BTOS Multi Purpose Port Apps untuk PT Persero Batam.",
             "Buat beberapa Prosedur dan Fungsi Penyimpanan untuk laporan kustom menggunakan SQL Server.",
             "Menangani menghasilkan laporan PDF File dari laravel.",
             "Tangani integrasi Backend laravel ke Odoo.",
