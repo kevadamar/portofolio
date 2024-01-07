@@ -119,6 +119,21 @@
               <h5>NuxtJS</h5>
             </v-tooltip>
           </div>
+          <div class="angular">
+            <v-tooltip bottom>
+              <template v-slot:activator="{ on, attrs }">
+                <v-img
+                  v-bind="attrs"
+                  v-on="on"
+                  width="100%"
+                  height="125"
+                  src="@/assets/angular.svg"
+                  lazy-src="@/assets/angular.svg"
+                ></v-img>
+              </template>
+              <h5>Angular</h5>
+            </v-tooltip>
+          </div>
         </div>
       </v-container>
     </div>
@@ -241,5 +256,9 @@
   width: 120px;
   height: 100px;
   object-fit: contain;
+}
+
+.flex-logos .angular {
+  margin-top: 0;
 }
 </style>
