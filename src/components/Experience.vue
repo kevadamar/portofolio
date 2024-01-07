@@ -36,7 +36,20 @@ export default {
     return {
       payloads: [
         {
-          year: "September 2021 - Now",
+          year: "Maret 2023 - Now",
+          job: "Software Engineer",
+          company: "PT. Esensi Solusi Buana",
+          description: [
+            "Development ESB POSLite Dasboard.",
+            "Maintenance ESB POSLite Dasboard.",
+            "Development ESB LOOP LITE CMS.",
+            "Maintenance ESB LOOP LITE CMS & Customer Web.",
+            "Revamp ESB LOOP LITE Customer Web.",
+            "Supporting issue production."
+          ]
+        },
+        {
+          year: "September 2021 - Februari 2023",
           job: "Fullstack Developer",
           company: "PT. Ayo Kreasi Teknologi",
           description: [
